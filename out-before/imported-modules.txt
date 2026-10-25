@@ -18,5 +18,12 @@
 18-split-toning            colorin splittoning 
 19-vignette                colorin vignette 
 20-grain                   colorin grain 
+21-spot-feather            colorin spots 
+21-spot-heal-circle        colorin spots 
+21-spot-heal-stroke        colorin 
+21-spot-opacity            colorin spots 
 21-spot-removal            colorin spots 
+21-spot-removal-rotated    colorin flip spots 
+21-spot-removal-rotated-withheal colorin flip spots 
+21-spot-remove-tool        colorin 
 22-combined                colorin clipping exposure grain vignette tonecurve bilat 

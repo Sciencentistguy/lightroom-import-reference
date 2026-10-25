@@ -22,4 +22,9 @@
 21-spot-removal           retouch: three cloned circles
 21-spot-removal-rotated   retouch: the same circles, on a rotated image
 21-spot-removal-rotated-withheal retouch: the same circles plus a healing brush
+21-spot-heal-circle       retouch: three healed circles
+21-spot-heal-stroke       retouch: one healing brush stroke
+21-spot-feather           retouch: one cloned circle, feathered
+21-spot-opacity           retouch: one cloned circle at half opacity
+21-spot-remove-tool       nothing: Remove tool spots are skipped
 22-combined               everything above that applies

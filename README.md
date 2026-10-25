@@ -81,7 +81,15 @@ the exact values.
 | 21-spot-removal | Spot Removal, Clone: three spots anywhere |
 | 21-spot-removal-rotated | Copy of 21-spot-removal with its spots, then Photo > Rotate Right (Ctrl+]) |
 | 21-spot-removal-rotated-withheal | Copy of 21-spot-removal-rotated, then Spot Removal, Heal: brush one stroke |
+| 21-spot-heal-circle | Spot Removal, Heal: three spots anywhere |
+| 21-spot-heal-stroke | Spot Removal, Heal: brush one stroke |
+| 21-spot-feather | Spot Removal, Clone: one spot, Feather 50 |
+| 21-spot-opacity | Spot Removal, Clone: one spot, Opacity 50 |
+| 21-spot-remove-tool | Remove: one spot (Lightroom also writes `21-spot-remove-tool.acr`) |
 | 22-combined | Crop with Angle +4, Exposure +0.50, Blacks -20, point curve Medium Contrast, Clarity +30, Post-Crop Vignetting Amount -20, Grain Amount 20 |
+
+The Remove tool fills from a patch Lightroom generates and stores in the
+`.acr` sidecar, with no source in the image, so darktable skips those spots.
 
 `cases.txt` lists what darktable is expected to import for each case;
 `imported-modules.txt` shows what it did.

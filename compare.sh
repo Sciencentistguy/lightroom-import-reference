@@ -50,7 +50,7 @@ SUMMARY="$OUT/imported-modules.txt"
 : > "$SUMMARY"
 
 for raw in "$CASES"/*; do
-  case "$raw" in *.xmp|*.XMP|*.jpg|*.JPG) continue ;; esac
+  case "$raw" in *.xmp|*.XMP|*.jpg|*.JPG|*.acr|*.ACR) continue ;; esac
   name=$(basename "${raw%.*}")
   xmp=$(ls "$CASES/$name".xmp "$CASES/$name".XMP 2>/dev/null | head -1 || true)
   lr=$(ls "$CASES/$name".jpg "$CASES/$name".JPG 2>/dev/null | head -1 || true)
