@@ -1,0 +1,366 @@
+[0/2] Re-checking globbed directories...
+[1/185] Checking validity of org.darktable.darktable.desktop
+[2/185] Checking validity of /home/jamie/Git/darktable-lrimport/build/share/darktable/darktableconfig.xml
+[3/185] Running utility command for deploy
+[4/185] Updating version string (git checkout)
+Version string: 5.7.0+1534~g32723108e3-dirty
+[5/185] Building C object bin/CMakeFiles/lib_darktable.dir/version_gen.c.o
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[6/185] Building C object bin/cmstest/CMakeFiles/darktable-cmstest.dir/__/version_gen.c.o
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[7/185] Linking C executable bin/darktable-cmstest
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[8/185] Building C object bin/CMakeFiles/lib_darktable.dir/develop/develop.c.o
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[9/185] Linking C shared library bin/libdarktable.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[10/185] Linking C shared module lib64/darktable/views/libtethering.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[11/185] Linking C shared module lib64/darktable/plugins/lighttable/libcolorlabels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[12/185] Linking C shared module lib64/darktable/views/libprint.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[13/185] Linking C shared module lib64/darktable/plugins/lighttable/libsession.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[14/185] Linking C shared module lib64/darktable/plugins/lighttable/libmetadata_view.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[15/185] Linking C shared module lib64/darktable/plugins/lighttable/libmetadata.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[16/185] Linking C shared module lib64/darktable/plugins/lighttable/libhistory.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[17/185] Linking C shared module lib64/darktable/views/liblighttable.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[18/185] Linking C shared module lib64/darktable/plugins/lighttable/libimport.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[19/185] Linking C shared module lib64/darktable/plugins/lighttable/libnavigation.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[20/185] Linking C shared module lib64/darktable/plugins/lighttable/libstyles.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[21/185] Linking C shared module lib64/darktable/plugins/lighttable/libcopy_history.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[22/185] Linking C shared module lib64/darktable/plugins/lighttable/libmasks_flexi_host.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[23/185] Linking C shared module lib64/darktable/plugins/lighttable/librecentcollect.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[24/185] Linking C shared module lib64/darktable/plugins/lighttable/libbackgroundjobs.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[25/185] Linking C shared module lib64/darktable/plugins/lighttable/libexport.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[26/185] Linking C shared module lib64/darktable/plugins/lighttable/libratings.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[27/185] Linking C shared module lib64/darktable/plugins/lighttable/libdarktable_label.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[28/185] Linking C shared module lib64/darktable/plugins/lighttable/libcollect.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[29/185] Linking C shared module lib64/darktable/plugins/lighttable/libsnapshots.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[30/185] Linking C shared module lib64/darktable/plugins/lighttable/libselect.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[31/185] Linking C shared module lib64/darktable/views/libdarkroom.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[32/185] Linking C shared module lib64/darktable/plugins/lighttable/libduplicate.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[33/185] Linking C shared module lib64/darktable/plugins/lighttable/libviewswitcher.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[34/185] Linking C shared module lib64/darktable/plugins/lighttable/libfiltering.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[35/185] Linking C shared module lib64/darktable/plugins/lighttable/libcolorpicker.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[36/185] Linking C shared module lib64/darktable/plugins/lighttable/libtagging.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[37/185] Linking C shared module lib64/darktable/plugins/lighttable/libmodulegroups.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[38/185] Linking C shared module lib64/darktable/views/libmap.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[39/185] Linking C shared module lib64/darktable/plugins/lighttable/libhistogram.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[40/185] Linking C shared module lib64/darktable/plugins/lighttable/libimage.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[41/185] Linking C shared module lib64/darktable/views/libslideshow.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[42/185] Linking C shared module lib64/darktable/plugins/lighttable/libioporder.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[43/185] Linking C executable bin/darktable
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[44/185] Linking C shared module lib64/darktable/plugins/lighttable/libfilter.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[45/185] Linking C shared module lib64/darktable/plugins/lighttable/liblocation.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[46/185] Linking C shared module lib64/darktable/plugins/lighttable/libview_toolbox.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[47/185] Linking C shared module lib64/darktable/plugins/lighttable/libhinter.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[48/185] Linking C shared module lib64/darktable/plugins/lighttable/liblive_view.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[49/185] Linking C shared module lib64/darktable/plugins/libbloom.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[50/185] Linking C shared module lib64/darktable/plugins/libcolisa.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[51/185] Linking C shared module lib64/darktable/plugins/librawprepare.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[52/185] Linking C shared module lib64/darktable/plugins/lighttable/libmidi.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[53/185] Linking C shared module lib64/darktable/plugins/lighttable/libmodule_toolbox.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[54/185] Linking C shared module lib64/darktable/plugins/lighttable/liblog_history.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[55/185] Linking C shared module lib64/darktable/plugins/libcolorharmonizer.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[56/185] Linking C shared module lib64/darktable/plugins/libcolorreconstruct.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[57/185] Linking C shared module lib64/darktable/plugins/lighttable/libmap_settings.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[58/185] Linking C shared module lib64/darktable/plugins/lighttable/libimage_infos.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[59/185] Linking C shared module lib64/darktable/plugins/lighttable/libprint_settings.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[60/185] Linking C shared module lib64/darktable/plugins/lighttable/libgamepad.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[61/185] Linking C shared module lib64/darktable/plugins/lighttable/libfilmstrip.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[62/185] Linking C shared module lib64/darktable/plugins/lighttable/libtimeline.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[63/185] Linking C shared module lib64/darktable/plugins/lighttable/libgeotagging.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[64/185] Linking C shared module lib64/darktable/plugins/libtonecurve.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[65/185] Linking C shared module lib64/darktable/plugins/lighttable/liblighttable_mode.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[66/185] Linking C shared module lib64/darktable/plugins/lighttable/libglobal_toolbox.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[67/185] Linking C shared module lib64/darktable/plugins/libshadhi.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[68/185] Linking C shared module lib64/darktable/plugins/libhighpass.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[69/185] Linking C shared module lib64/darktable/plugins/libsoften.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[70/185] Linking C shared module lib64/darktable/plugins/liblowpass.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[71/185] Linking CXX shared module lib64/darktable/plugins/libtonemap.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[72/185] Linking C shared module lib64/darktable/plugins/libtemperature.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[73/185] Linking C shared module lib64/darktable/plugins/libgamma.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[74/185] Linking C shared module lib64/darktable/plugins/lighttable/libcamera.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[75/185] Linking C shared module lib64/darktable/plugins/lighttable/libmap_locations.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[76/185] Linking C shared module lib64/darktable/plugins/libcolorcorrection.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[77/185] Linking C shared module lib64/darktable/plugins/libbasicadj.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[78/185] Linking C shared module lib64/darktable/plugins/librgbcurve.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[79/185] Linking C shared module lib64/darktable/plugins/libclipping.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[80/185] Linking C shared module lib64/darktable/plugins/libbasecurve.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[81/185] Linking C shared module lib64/darktable/plugins/libcolorin.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[82/185] Linking C shared module lib64/darktable/plugins/libsharpen.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[83/185] Linking C shared module lib64/darktable/plugins/libexposure.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[84/185] Linking C shared module lib64/darktable/plugins/libcolorchecker.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[85/185] Linking C shared module lib64/darktable/plugins/libsplittoning.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[86/185] Linking C shared module lib64/darktable/plugins/libhighlights.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[87/185] Linking C shared module lib64/darktable/plugins/libequalizer.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[88/185] Linking C shared module lib64/darktable/plugins/libdither.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[89/185] Linking C shared module lib64/darktable/plugins/libclahe.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[90/185] Linking C shared module lib64/darktable/plugins/libvelvia.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[91/185] Linking C shared module lib64/darktable/plugins/libcolorbalance.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[92/185] Linking C shared module lib64/darktable/plugins/libcrop.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[93/185] Linking C shared module lib64/darktable/plugins/liboverlay.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[94/185] Linking C shared module lib64/darktable/plugins/libcolorzones.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[95/185] Linking C shared module lib64/darktable/plugins/libvignette.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[96/185] Linking C shared module lib64/darktable/plugins/librawoverexposed.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[97/185] Linking C shared module lib64/darktable/plugins/libenlargecanvas.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[98/185] Linking C shared module lib64/darktable/plugins/libgrain.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[99/185] Linking C shared module lib64/darktable/plugins/libcolorout.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[100/185] Linking C shared module lib64/darktable/plugins/libmonochrome.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[101/185] Linking C shared module lib64/darktable/plugins/libspektrafilm.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[102/185] Linking CXX shared module lib64/darktable/plugins/libbilateral.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[103/185] Linking C shared module lib64/darktable/plugins/librelight.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[104/185] Linking C shared module lib64/darktable/plugins/libcolormapping.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[105/185] Linking C shared module lib64/darktable/plugins/libprofile_gamma.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[106/185] Linking C shared module lib64/darktable/plugins/libgraduatednd.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[107/185] Linking C shared module lib64/darktable/plugins/libzonesystem.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[108/185] Linking C shared module lib64/darktable/plugins/libchannelmixer.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[109/185] Linking C shared module lib64/darktable/plugins/libcolortransfer.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[110/185] Linking CXX shared module lib64/darktable/plugins/libdemosaic.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[111/185] Linking C shared module lib64/darktable/plugins/librotatepixels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[112/185] Linking C shared module lib64/darktable/plugins/libscalepixels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[113/185] Linking C shared module lib64/darktable/plugins/librgblevels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[114/185] Linking C shared module lib64/darktable/plugins/librawdenoise.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[115/185] Linking C shared module lib64/darktable/plugins/libretouch.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[116/185] Linking C shared module lib64/darktable/plugins/liblowlight.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[117/185] Linking C shared module lib64/darktable/plugins/libspots.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[118/185] Linking C shared module lib64/darktable/plugins/libhotpixels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[119/185] Linking C shared module lib64/darktable/plugins/libliquify.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[120/185] Linking C shared module lib64/darktable/plugins/libcacorrect.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[121/185] Linking C shared module lib64/darktable/plugins/libcolorcontrast.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[122/185] Linking C shared module lib64/darktable/plugins/libbilat.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[123/185] Linking C shared module lib64/darktable/plugins/libdemosaicscale.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[124/185] Linking C shared module lib64/darktable/plugins/libnlmeans.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[125/185] Linking C shared module lib64/darktable/plugins/liboverexposed.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[126/185] Linking C shared module lib64/darktable/plugins/libflip.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[127/185] Linking C shared module lib64/darktable/plugins/libdefringe.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[128/185] Linking C shared module lib64/darktable/plugins/libglobaltonemap.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[129/185] Linking C shared module lib64/darktable/plugins/libfinalscale.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[130/185] Linking C shared module lib64/darktable/plugins/libashift.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[131/185] Linking C shared module lib64/darktable/plugins/libcolorize.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[132/185] Linking C shared module lib64/darktable/plugins/libborders.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[133/185] Linking C shared module lib64/darktable/plugins/libinvert.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[134/185] Linking C shared module lib64/darktable/plugins/libdenoiseprofile.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[135/185] Linking C shared module lib64/darktable/plugins/liblevels.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[136/185] Linking C shared module lib64/darktable/plugins/libtoneequal.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[137/185] Linking C shared module lib64/darktable/plugins/libvibrance.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[138/185] Linking C shared module lib64/darktable/plugins/libatrous.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[139/185] Linking C shared module lib64/darktable/plugins/libfilmic.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[140/185] Linking C shared module lib64/darktable/plugins/libhazeremoval.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[141/185] Linking C shared module lib64/darktable/plugins/libfilmicrgb.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[142/185] Linking C shared module lib64/darktable/plugins/libmask_manager.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[143/185] Linking CXX shared module lib64/darktable/plugins/liblut3d.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[144/185] Linking C shared module lib64/darktable/plugins/libnegadoctor.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[145/185] Linking C shared module lib64/darktable/plugins/libchannelmixerrgb.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[146/185] Linking C shared module lib64/darktable/plugins/libcolorbalancergb.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[147/185] Linking C shared module lib64/darktable/plugins/libblurs.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[148/185] Linking C shared module lib64/darktable/plugins/libdiffuse.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[149/185] Linking C shared module lib64/darktable/plugins/libcensorize.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[150/185] Linking C shared module lib64/darktable/plugins/imageio/format/libjpeg.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[151/185] Linking C shared module lib64/darktable/plugins/libwatermark.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[152/185] Linking C shared module lib64/darktable/plugins/libcacorrectrgb.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[153/185] Linking C shared module lib64/darktable/plugins/libsatcurvergb.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[154/185] Linking C shared module lib64/darktable/plugins/libprimaries.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[155/185] Linking C shared module lib64/darktable/plugins/libcolorequal.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[156/185] Linking C shared module lib64/darktable/plugins/librasterfile.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[157/185] Linking C shared module lib64/darktable/plugins/libsigmoid.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[158/185] Linking C shared module lib64/darktable/plugins/libagx.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[159/185] Linking C shared module lib64/darktable/plugins/imageio/format/libcopy.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[160/185] Linking C shared module lib64/darktable/plugins/imageio/format/libpfm.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[161/185] Linking C shared module lib64/darktable/plugins/imageio/format/libwebp.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[162/185] Linking C shared module lib64/darktable/plugins/imageio/format/libtiff.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[163/185] Linking CXX shared module lib64/darktable/plugins/liblens.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[164/185] Linking C shared module lib64/darktable/plugins/imageio/format/libxcf.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[165/185] Linking C shared module lib64/darktable/plugins/imageio/format/libheif.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[166/185] Linking C shared module lib64/darktable/plugins/imageio/format/libppm.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[167/185] Linking C shared module lib64/darktable/plugins/imageio/storage/libgallery.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[168/185] Linking C shared module lib64/darktable/plugins/libcontrastntexture.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[169/185] Linking C shared module lib64/darktable/plugins/imageio/format/libpdf.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[170/185] Linking C shared module lib64/darktable/plugins/imageio/format/libpng.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[171/185] Linking C shared module lib64/darktable/plugins/imageio/format/libjpegxl.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[172/185] Linking C shared module lib64/darktable/plugins/imageio/storage/libdisk.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[173/185] Linking C shared module lib64/darktable/plugins/imageio/format/libj2k.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[174/185] Linking CXX shared module lib64/darktable/plugins/imageio/format/libexr.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[175/185] Linking C shared module lib64/darktable/plugins/imageio/storage/libclipboard.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[176/185] Linking C shared module lib64/darktable/plugins/imageio/format/libavif.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[177/185] Linking C shared module lib64/darktable/plugins/imageio/storage/libemail.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[178/185] Linking C shared module lib64/darktable/plugins/imageio/storage/liblatex.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[179/185] Linking C shared module lib64/darktable/plugins/imageio/storage/libpiwigo.so
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[180/185] Linking C executable bin/darktable-cltest
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[181/185] Linking C executable bin/darktable-cli
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[182/185] Linking C executable bin/darktable-generate-cache
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[183/185] Linking C executable bin/darktable-mcp
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set
+[184/185] Linking C executable bin/chart/darktable-chart
+warning: Skipping impure flag -march=native because NIX_ENFORCE_NO_NATIVE is set

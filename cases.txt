@@ -1,0 +1,23 @@
+# name                    what darktable should import
+01-baseline               nothing but the input matrix and working profile
+02-crop                   crop
+03-crop-straighten-pos    rotate and perspective + crop
+04-crop-straighten-neg    rotate and perspective + crop
+05-crop-portrait          rotate and perspective + crop, on a rotated image
+06-crop-mirror            rotate and perspective + crop, on a mirrored image
+07-exposure-plus          exposure
+08-exposure-minus         exposure
+09-blacks                 exposure (black level)
+10-curve-linear           no tone curve
+11-curve-medium           tone curve
+12-curve-strong           tone curve
+13-curve-custom           tone curve
+14-curve-parametric       tone curve
+15-clarity-plus           local contrast
+16-clarity-minus          local contrast
+17-hsl                    color zones
+18-split-toning           split-toning
+19-vignette               vignetting
+20-grain                  grain
+21-spot-removal           nothing: spot removals are no longer imported
+22-combined               everything above that applies

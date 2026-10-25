@@ -1,0 +1,22 @@
+01-baseline                colorin 
+02-crop                    colorin clipping 
+03-crop-straighten-pos     colorin clipping 
+04-crop-straighten-neg     colorin clipping 
+05-crop-portrait           colorin clipping flip 
+06-crop-mirror             colorin clipping flip 
+07-exposure-plus           colorin exposure 
+08-exposure-minus          colorin exposure 
+09-blacks                  colorin exposure 
+10-curve-linear            colorin 
+11-curve-medium            colorin tonecurve 
+12-curve-strong            colorin tonecurve 
+13-curve-custom            colorin tonecurve 
+14-curve-parametric        colorin tonecurve 
+15-clarity-plus            colorin bilat 
+16-clarity-minus           colorin bilat 
+17-hsl                     colorin colorzones 
+18-split-toning            colorin splittoning 
+19-vignette                colorin vignette 
+20-grain                   colorin grain 
+21-spot-removal            colorin spots 
+22-combined                colorin clipping exposure grain vignette tonecurve bilat 
