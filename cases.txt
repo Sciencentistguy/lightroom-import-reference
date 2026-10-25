@@ -19,5 +19,5 @@
 18-split-toning           split-toning
 19-vignette               vignetting
 20-grain                  grain
-21-spot-removal           nothing: spot removals are no longer imported
+21-spot-removal           retouch: three cloned circles
 22-combined               everything above that applies

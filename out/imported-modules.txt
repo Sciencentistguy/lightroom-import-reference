@@ -18,5 +18,5 @@
 18-split-toning            colorin splittoning 
 19-vignette                colorin vignette 
 20-grain                   colorin grain 
-21-spot-removal            colorin 
+21-spot-removal            colorin retouch 
 22-combined                colorin ashift crop exposure grain vignette tonecurve bilat 
