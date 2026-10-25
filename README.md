@@ -78,7 +78,9 @@ the exact values.
 | 18-split-toning | Color Grading (Split Toning before Lightroom 10): Shadows hue 220 saturation 30, Highlights hue 40 saturation 30, Balance +20 |
 | 19-vignette | Effects, Post-Crop Vignetting: Style Highlight Priority, Amount -40, Midpoint 40, Roundness +20, Feather 60 |
 | 20-grain | Effects, Grain: Amount 50, Size 25, Roughness 60 |
-| 21-spot-removal | Spot Removal, Heal: three spots anywhere |
+| 21-spot-removal | Spot Removal, Clone: three spots anywhere |
+| 21-spot-removal-rotated | Copy of 21-spot-removal with its spots, then Photo > Rotate Right (Ctrl+]) |
+| 21-spot-removal-rotated-withheal | Copy of 21-spot-removal-rotated, then Spot Removal, Heal: brush one stroke |
 | 22-combined | Crop with Angle +4, Exposure +0.50, Blacks -20, point curve Medium Contrast, Clarity +30, Post-Crop Vignetting Amount -20, Grain Amount 20 |
 
 `cases.txt` lists what darktable is expected to import for each case;

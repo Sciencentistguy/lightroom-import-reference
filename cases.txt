@@ -20,4 +20,6 @@
 19-vignette               vignetting
 20-grain                  grain
 21-spot-removal           retouch: three cloned circles
+21-spot-removal-rotated   retouch: the same circles, on a rotated image
+21-spot-removal-rotated-withheal retouch: the same circles plus a healing brush
 22-combined               everything above that applies
