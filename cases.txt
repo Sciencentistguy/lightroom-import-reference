@@ -18,6 +18,13 @@
 17-hsl                    color zones
 18-split-toning           split-toning
 19-vignette               vignetting
+19-vignette-default       vignetting
+19-vignette-mid0          vignetting
+19-vignette-feather0      vignetting
+19-vignette-feather100    vignetting
+19-vignette-amount-100    vignetting
+19-vignette-amount+50     vignetting
+19-vignette-roundness100  vignetting
 20-grain                  grain
 21-spot-removal           retouch: three cloned circles
 21-spot-removal-rotated   retouch: the same circles, on a rotated image

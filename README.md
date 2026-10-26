@@ -77,6 +77,13 @@ the exact values.
 | 17-hsl | HSL: Hue Red +30, Saturation Blue -50, Luminance Yellow +40 |
 | 18-split-toning | Color Grading (Split Toning before Lightroom 10): Shadows hue 220 saturation 30, Highlights hue 40 saturation 30, Balance +20 |
 | 19-vignette | Effects, Post-Crop Vignetting: Style Highlight Priority, Amount -40, Midpoint 40, Roundness +20, Feather 60 |
+| 19-vignette-default | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 50, Feather 50 |
+| 19-vignette-mid0 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 0, Feather 50 |
+| 19-vignette-feather0 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 50, Feather 0 |
+| 19-vignette-feather100 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 50, Feather 100 |
+| 19-vignette-amount-100 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -100, Midpoint 50, Feather 50 |
+| 19-vignette-amount+50 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount +50, Midpoint 50, Feather 50 |
+| 19-vignette-roundness100 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 50, Feather 50, Roundness +100 |
 | 20-grain | Effects, Grain: Amount 50, Size 25, Roughness 60 |
 | 21-spot-removal | Spot Removal, Clone: three spots anywhere |
 | 21-spot-removal-rotated | Copy of 21-spot-removal with its spots, then Photo > Rotate Right (Ctrl+]) |
