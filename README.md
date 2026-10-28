@@ -84,6 +84,7 @@ the exact values.
 | 19-vignette-amount-100 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -100, Midpoint 50, Feather 50 |
 | 19-vignette-amount+50 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount +50, Midpoint 50, Feather 50 |
 | 19-vignette-roundness100 | Effects, Post-Crop Vignetting, Style Highlight Priority, Roundness 0 unless stated: Amount -40, Midpoint 50, Feather 50, Roundness +100 |
+| 19-vignette-rotated | Copy of 19-vignette-default, then Photo > Rotate Right (Ctrl+]) |
 | 20-grain | Effects, Grain: Amount 50, Size 25, Roughness 60 |
 | 21-spot-removal | Spot Removal, Clone: three spots anywhere |
 | 21-spot-removal-rotated | Copy of 21-spot-removal with its spots, then Photo > Rotate Right (Ctrl+]) |

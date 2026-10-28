@@ -23,6 +23,7 @@
 19-vignette-feather0       colorin vignette 
 19-vignette-feather100     colorin vignette 
 19-vignette-mid0           colorin vignette 
+19-vignette-rotated        colorin flip vignette 
 19-vignette-roundness100   colorin vignette 
 20-grain                   colorin grain 
 21-spot-feather            colorin spots 
